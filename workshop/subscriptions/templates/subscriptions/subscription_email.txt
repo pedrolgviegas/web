@@ -1,0 +1,12 @@
+Obrigado! por se inscrever no nosso Workshop.
+
+Estes são os dados que você forneceu:
+
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Em breve enviaremos o cartão de inscrição!!
+
+Atenciosamente, Paulo César.

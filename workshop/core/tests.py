@@ -34,7 +34,7 @@ class HomeTeste(TestCase):
         self.assertContains(self.response, 'href="/contact/"')
 
     def test_subscription_link(self):
-        self.assertContains(self.response, 'href="/subscription/"')
+        self.assertContains(self.response, 'href="/subscriptions/"')
 
 class AboutTest(TestCase):
 
